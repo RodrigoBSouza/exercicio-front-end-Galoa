@@ -4,4 +4,4 @@ O proposto pela empresa foi reproduzir o layout de um protótipo de alta fidelid
 
 Link do projeto no Figma: 
 
-https://www.figma.com/proto/0D27YdXU8ibf0AhsBC2OEm Chuva---Exerc%C3%ADcio-Frontend?node-id=316%3A405&scaling=min-zoom
+https://www.figma.com/proto/0D27YdXU8ibf0AhsBC2OEm/Chuva---Exerc%C3%ADcio-Frontend?node-id=316%3A405&scaling=min-zoom
